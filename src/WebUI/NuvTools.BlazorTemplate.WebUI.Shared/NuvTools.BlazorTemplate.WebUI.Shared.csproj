@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+      <RootNamespace>NuvToolsBlazorTemplate.WebUI.Shared</RootNamespace>
+      <AssemblyName>NuvToolsBlazorTemplate.WebUI.Shared</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <SupportedPlatform Include="browser" />
+  </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="FluentValidation" Version="11.4.0" />
+        <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="7.0.2" />
+    </ItemGroup>
+</Project>
