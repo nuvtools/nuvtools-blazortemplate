@@ -1,4 +1,4 @@
-# NuvTools Blazor Template for .NET
+# Nuv Tools Blazor Template for .NET
 
 This is a solution template for creating a Blazor WebAssembly application hosted on ASP.NET Core using Nuv Tools Framework and following the principles of Clean Architecture. Thanks Jason Taylor (https://github.com/jasontaylordev) for the base template.
 
